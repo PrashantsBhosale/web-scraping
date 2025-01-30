@@ -1,0 +1,58 @@
+{
+    "website_details": [
+                {
+            "source": "BQPrime",
+            "domain": "https://www.bqprime.com",
+            "pattern": "selenium",
+            "url": "https://www.bqprime.com/business?src=topnav",
+            "bodyelement": [
+                {"tag":"div","class":"cardHeadlineAuthorVertical-m__wrapper__esCCA"}
+            ],
+            "summary_tags": [
+              {"sum_tag":"div","sum_class":"story-element story-element-text"}
+            ]
+        },
+      {
+            "source": "BQPrime",
+            "domain": "https://www.bqprime.com",
+            "pattern": "selenium",
+            "url": "https://www.bqprime.com/bq-blue-exclusive",
+            "bodyelement": [
+                {"tag":"div","class":["image-over-story-content story-card-with-image-over-title-m__story-content__3FmYh","cardHeadlineAuthorVertical-m__wrapper__esCCA"]}
+            ],
+            "summary_tags": [
+              {"sum_tag":"div","sum_class":"story-element story-element-text"}
+            ]
+        },
+      {
+            "source": "BQPrime",
+            "domain": "https://www.bqprime.com",
+            "pattern": "selenium",
+            "url": "https://www.bqprime.com/economy-finance?",
+            "bodyelement": [
+                {"tag":"div","class":["cardHeadlineAuthorVertical-m__wrapper__esCCA"]}
+            ],
+            "summary_tags": [
+                {
+                    "sum_tag": "div",
+                    "sum_class": "story-element story-element-text"
+                }
+            ]
+        },
+      {
+            "source": "BQPrime",
+            "domain": "https://www.bqprime.com",
+            "pattern": "selenium",
+            "url": "https://www.bqprime.com/markets?src=topnav",
+            "bodyelement": [
+                {"tag":["p","h3"],"class":["markets-news-m__news-item__E2uFO","text-regular story-title newsCardImage-m__text__20KzP"]}
+            ],
+	        "summary_tags": [
+                {
+                    "sum_tag": "div",
+                    "sum_class": "story-element story-element-text"
+                }
+            ]
+        }
+    ]
+}
