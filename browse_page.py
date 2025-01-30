@@ -58,7 +58,7 @@ def parse_news(source):
                 'news_PubDate': "",
                 'is_insert': True
             }
-            print(result)
+            return result
 
 
 def main():
